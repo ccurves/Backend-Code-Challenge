@@ -22,3 +22,4 @@
 
 ### Submit
 Make sure your app is working, host your app, and  upload the code to Github with a good readMe on your solution, then send your solution to taiwotobi@outlook.com.
+Attach your CV to the email
