@@ -2,13 +2,13 @@
 
 ### Challenge
 - Build an ecommerce bot using facebook messenger bot
-- Create a backend app that searve as a server for the created bot
+- Create a backend app that serves as a server for the created bot
 - Integrate this bot into your server using data from https://fakestoreapi.com/
 
 ### Functionality
 - User should be greeted by the bot
 - User should be able to see the products when interacting with the bot
-- User should be able to add items to card
+- User should be able to add items to cart
 
 ### Rubics
 - You will be accessed on the functionality
@@ -17,7 +17,7 @@
 - You will be accessed on how clean your code is
 
 ### TechStack
-- Node (Prefferably NestJS)
+- Node (Preferably NestJS)
 - Typescript (this is a must)
 
 ### Submit
